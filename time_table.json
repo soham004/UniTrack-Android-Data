@@ -3,16 +3,55 @@
     {
       "label": "Mon",
       "slots": [
-        { "title": "ML", "location": "C25-A-213", "start": "08:00", "end": "09:00" },
-        { "title": "AI(L)", "location": "C25-A-204(L)", "start": "09:00", "end": "11:00" }
+        { "title": "ML",    "location": "C25-A-213",    "start": "08:00", "end": "09:00" },
+        { "title": "AI(L)", "location": "C25-A-204(L)", "start": "09:00", "end": "11:00" },
+        { "title": "CC",    "location": "C25-A-111",    "start": "11:00", "end": "12:00" },
+        { "title": "UHV",   "location": "C25-A-111",    "start": "12:00", "end": "13:00" }
       ],
       "note": "Continuous from 08:00 to 13:00"
     },
+
     {
       "label": "Tue",
       "slots": [
-        { "title": "HSE", "location": "----", "start": "09:00", "end": "10:00" }
-      ]
+        { "title": "HSE", "location": "----",      "start": "09:00", "end": "10:00" },
+        { "title": "ML",  "location": "C25-B-019", "start": "10:00", "end": "11:00" },
+        { "title": "AI",  "location": "C25-A-207", "start": "11:00", "end": "12:00" },
+        { "title": "CC",  "location": "C25-A-207", "start": "12:00", "end": "13:00" }
+      ],
+      "note": "Continuous from 09:00 to 13:00"
+    },
+
+    {
+      "label": "Wed",
+      "slots": [
+        { "title": "HSE",   "location": "----",           "start": "10:00", "end": "11:00" },
+        { "title": "AD",    "location": "C25-A-203(L)",   "start": "11:00", "end": "12:00" },
+        { "title": "AD(L)", "location": "C25-A-203(L)",   "start": "12:00", "end": "14:00" }
+      ],
+      "note": "Labs from 11:00 onwards"
+    },
+
+    {
+      "label": "Thu",
+      "slots": [
+        { "title": "ML",  "location": "C25-B-107", "start": "09:00", "end": "10:00" },
+        { "title": "AI",  "location": "C25-B-107", "start": "10:00", "end": "11:00" },
+        { "title": "UHV", "location": "C25-A-111", "start": "11:00", "end": "12:00" },
+        { "title": "CC",  "location": "C25-A-111", "start": "12:00", "end": "13:00" }
+      ],
+      "note": "Continuous from 09:00 to 13:00"
+    },
+
+    {
+      "label": "Fri",
+      "slots": [
+        { "title": "HSE", "location": "----",       "start": "09:00", "end": "10:00" },
+        { "title": "ML",  "location": "C25-B-019",  "start": "10:00", "end": "11:00" },
+        { "title": "UHV", "location": "C25-B-207",  "start": "11:00", "end": "12:00" },
+        { "title": "AI",  "location": "C25-B-207",  "start": "12:00", "end": "13:00" }
+      ],
+      "note": "Continuous from 09:00 to 13:00"
     }
   ]
 }
