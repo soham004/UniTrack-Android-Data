@@ -40,14 +40,13 @@
       "Tea"
     ],
     "lunch": [
-      "Kofta",
-      "Egg Kalia",
-      "Potato Finger Chips",
-      "Dal Sabji",
-      "Paneer Masala",
       "Rice",
-      "Mix Dal",
-      "Salad"
+      "Roti",
+      "Dal",
+      "Vegetable Kofta",
+      "Egg Kalia",
+      "Potato Finger Chips/ Dahi Salad",
+      "Mix Boiled Veg"
     ],
     "snacks": [
       "Piyaj Pakodi",
@@ -83,8 +82,8 @@
       "Mix Boiled Veg"
     ],
     "snacks": [
-      "Sweetcorn",
-      "Tea"
+      "Sweetcorn Chat",
+      "Coffee"
     ],
     "dinner": [
       "Fried Rice",
@@ -147,8 +146,7 @@
       "Dal",
       "Paneer Hyderabadi",
       "Fish Masala",
-      "Potato Karela Chips",
-      "Salad",
+      "Potato Karela Chips/ Salad",
       "Mix Boiled Veg"
     ],
     "snacks": [
@@ -214,8 +212,8 @@
       "Dal",
       "Egg Masala",
       "Aloo Besan/ Soyabin Masala",
-      "Mix Boiled Veg",
-      "Aloo Chips/ Dahi Salad"
+      "Aloo Chips/ Dahi Salad",
+      "Mix Boiled Veg"      
     ],
     "snacks": [
       "Pasta",
