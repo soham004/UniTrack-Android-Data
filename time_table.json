@@ -26,7 +26,7 @@
       "slots": [
         { "title": "AD",    "location": "C25-A-203(L)",   "start": "11:00", "end": "12:00" },
         { "title": "AD(L)", "location": "C25-A-203(L)",   "start": "12:00", "end": "14:00" },
-        { "title": "RES", "location": "C8-301",     "start": "04:30", "end": "06:00" },
+        { "title": "RES", "location": "C8-301",     "start": "04:30", "end": "06:00" }
       ],
       "note": "Labs from 11:00 - 14:00 then open elective"
     },
