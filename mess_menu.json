@@ -1,8 +1,11 @@
 {
   "monday": {
     "breakfast": [
-      "Chole Bhatura",
-      "Bread Butter",
+      "Idli",
+      "Ghugni",
+      "Chutney",
+      "Bread",
+      "Butter",
       "Jam",
       "Tea"
     ],
@@ -10,53 +13,56 @@
       "Rice",
       "Roti",
       "Dal",
-      "Navratan Korma",
-      "Aloo Chips",
-      "Mix Boiled Veg"
+      "Fulgobi Aloo Masala (Dry)",
+      "Tomato Khatta",
+      "Papad",
+      "Mix Boiled Vegetable"
     ],
     "snacks": [
-      "Vadapav",
-      "Tea"
+      "Pakodi",
+      "Coffee"
     ],
     "dinner": [
-      "Roti",
       "Rice",
-      "Dal Tadka",
-      "Bhindi Masala",
-      "Rasgulla (Big Size)"
+      "Dal",
+      "Methi Puri",
+      "Chole Masala",
+      "Rasgulla (Big)",
+      "Mix Boiled Vegetable"
     ]
   },
   "tuesday": {
     "breakfast": [
-      "Vada",
-      "Chutney",
-      "Ghugni",
+      "Dahi Vada",
+      "Aloo Dum",
+      "Cutting Onion",
       "Cornflakes",
       "Milk",
       "Banana (Big)",
-      "Tea"
+      "Coffee"
     ],
     "lunch": [
-      "Roti",
       "Rice",
+      "Roti",
       "Dal",
-      "Malai Kopta (2)",
-      "Egg Kalia (2)",
-      "Potato Finger Chips",
-      "Pickle"
+      "Basan Aloo Curry",
+      "Egg Masala",
+      "Mix Bhaja",
+      "Papad",
+      "Mix Boiled Vegetable"
     ],
     "snacks": [
-      "Maggie",
+      "Piaaji",
       "Tea"
     ],
     "dinner": [
-      "Roti",
       "Rice",
-      "Dal",
-      "Chole Masale",
-      "Aloo Bhujia",
-      "Jalebi",
-      "Mixed Boiled Veg"
+      "Roti",
+      "Mix Dal Tadka",
+      "Aachar",
+      "Aloo Beans Bhaja",
+      "Semiyan Kheer",
+      "Mix Boiled Vegetable"
     ]
   },
   "wednesday": {
@@ -64,156 +70,161 @@
       "Bread",
       "Butter",
       "Jam",
-      "Boiled Egg (2)",
-      "Vegetable Cutlet (2)",
-      "Chilli Sauce",
-      "Coffee"
-    ],
-    "lunch": [
-      "Roti",
-      "Rice",
-      "Dal",
-      "Fish Besar",
-      "Matar Paneer",
-      "French Fries",
-      "Pickle",
-      "Salad (Without Onion)"
-    ],
-    "snacks": [
-      "Aloo Chap",
-      "Green Chutney",
+      "Boiled Eggs (2)",
+      "Veg Cutlets (2)",
       "Tea"
-    ],
-    "dinner": [
-      "Fried Rice",
-      "Roti",
-      "Dal Fry",
-      "Paneer Bhurji",
-      "Chicken Hyderabadi",
-      "Kulfi / Ice Cream (Mother Dairy)"
-    ]
-  },
-  "thursday": {
-    "breakfast": [
-      "Pav Bhaji",
-      "Cornflakes",
-      "Milk",
-      "Banana (Big)",
-      "Pickle",
-      "Onion",
-      "Coffee"
     ],
     "lunch": [
       "Rice",
       "Roti",
       "Dal",
-      "Parwal Aloo Curry",
-      "Rajma Masala",
-      "Mix Bhaji",
-      "Dahi"
+      "Fish Kalia",
+      "Veg Manchurian",
+      "Salad",
+      "Aachar",
+      "Mix Boiled Vegetable"
     ],
     "snacks": [
-      "Papdi Chat",
-      "Tea"
-    ],
-    "dinner": [
-      "Zeera Rice",
-      "Roti",
-      "Dal",
-      "Chilli Ghobi",
-      "Gulab Jamun",
-      "Mix Bhaja"
-    ]
-  },
-  "friday": {
-    "breakfast": [
-      "Veg Chowmein",
-      "Egg Chowmein / Omelet",
-      "Vegetable Cutlet (2)",
-      "Bread Butter",
-      "Jam"
-    ],
-    "lunch": [
-      "Rice",
-      "Roti",
-      "Dal",
-      "Paneer Masala",
-      "Fish Masala",
-      "Potato Bhaji",
-      "Salad (Without Onion)"
-    ],
-    "snacks": [
-      "Marigold",
-      "Tea"
-    ],
-    "dinner": [
-      "Chicken Biriyani / Veg Biriyani",
-      "Paneer Butter Masala",
-      "Raita",
-      "Jaljeera"
-    ]
-  },
-  "saturday": {
-    "breakfast": [
-      "Idli",
-      "Sambhar",
-      "Nariyal Chutney",
-      "Cornflakes",
-      "Milk",
-      "Banana (Big)",
-      "Tea"
-    ],
-    "lunch": [
-      "Rice / Khichdi",
-      "Roti",
-      "Dal",
-      "Aloo Matar",
-      "With Chena Balls",
-      "Aloo Chokha",
-      "Papad"
-    ],
-    "snacks": [
-      "Pasta",
-      "Coffee"
+      "Vada",
+      "Tea (Lemon)"
     ],
     "dinner": [
       "Rice",
       "Roti",
       "Dal",
       "Chicken Mughlai",
-      "Mattar Paneer",
-      "Meetha Dahi"
+      "Paneer Do-Pyaza",
+      "Malpua (Big)",
+      "Mix Boiled Vegetable"
     ]
   },
-  "sunday": {
+  "thursday": {
     "breakfast": [
-      "Dosa",
-      "Sambar",
-      "Chutney",
-      "Bread",
-      "Butter",
-      "Jam",
+      "Puri",
+      "Aloo Dum",
+      "Cornflakes",
+      "Milk",
+      "Banana (Big)",
       "Coffee"
     ],
     "lunch": [
       "Rice",
       "Roti",
-      "Veg Kopta (2)",
-      "Egg Masala",
-      "Beans Aloo Bhujia",
-      "Pickle"
+      "Dal",
+      "Potal Kurma",
+      "Dahi Pakodi",
+      "Salad",
+      "Mix Boiled Vegetable"
     ],
     "snacks": [
-      "Onion Pakodi",
+      "Papudi Chat",
       "Tea"
     ],
     "dinner": [
       "Rice",
       "Roti",
       "Dal",
+      "Soyabin Aloo Masala",
+      "Mix Bhaja",
+      "Gulab Jamun (Big)",
+      "Mix Boiled Vegetable"
+    ]
+  },
+  "friday": {
+    "breakfast": [
+      "Bread",
+      "Butter",
+      "Jam",
+      "Egg Omelet",
+      "Aloo Chop",
+      "Tea"
+    ],
+    "lunch": [
+      "Rice",
+      "Roti",
+      "Dal",
+      "Fish Besar",
+      "Rajma Masala",
+      "Karela Aloo Chips",
+      "Aachar",
+      "Mix Boiled Vegetable"
+    ],
+    "snacks": [
+      "Biscuit",
+      "Coffee"
+    ],
+    "dinner": [
+      "Chicken Biryani",
+      "Veg Biryani",
+      "Paneer Butter Masala",
+      "Raita",
+      "Jal Jeera Paani"
+    ]
+  },
+  "saturday": {
+    "breakfast": [
+      "Chola Bhatura",
+      "Aachar",
+      "Cutting Onion",
+      "Cornflakes",
+      "Milk",
+      "Banana (Big)",
+      "Coffee"
+    ],
+    "lunch": [
+      "Rice",
+      "Roti",
+      "Khichdi",
+      "Dalma",
+      "Aloo Chokha",
+      "Veg Manchurian",
+      "Papad"
+    ],
+    "snacks": [
+      "Maggi",
+      "Tea"
+    ],
+    "dinner": [
+      "Rice",
+      "Roti",
+      "Dal",
+      "Chilly Paneer",
+      "Chilly Chicken",
+      "Ice Cream (Cone)",
+      "Mix Boiled Vegetable"
+    ]
+  },
+  "sunday": {
+    "breakfast": [
+      "Masala Dosa",
+      "Sambhar",
+      "Chutney",
+      "Bread",
+      "Butter",
+      "Jam",
+      "Tea"
+    ],
+    "lunch": [
+      "Rice",
+      "Roti",
+      "Dal",
       "Chicken Butter Masala",
-      "Paneer Hyderabadi",
-      "Malpoa"
+      "Kadhai Paneer",
+      "Salad",
+      "Mix Boiled Vegetable"
+    ],
+    "snacks": [
+      "Black Chana Fry",
+      "Coffee"
+    ],
+    "dinner": [
+      "Rice",
+      "Roti",
+      "Dal",
+      "Malai Kofta",
+      "Egg Bhujia",
+      "Jalebi (2 Pcs)",
+      "Mix Boiled Vegetable"
     ]
   }
 }
